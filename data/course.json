@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "1999",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "ab333c87-0d70-cd7b-2beb-1d6781b62245",
+  "instructors": {
+    "content": [
+      "d8e238b9-572a-1350-b105-64bcc323d658"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4306f550-a4d2-5090-a140-3f4baeccbe88",
+    "website": "9-250-evolutionary-psychology-spring-1999"
+  },
+  "course_title": "Evolutionary Psychology",
+  "course_description": "Current research on the evolution and development of cognition and affect, including intuitive physics, biology, and psychology, language, emotions, sexuality, and social relations.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.250",
+  "course_image_thumbnail": {
+    "content": "e350f3c7-776f-79a9-4eda-fb09f6b61411",
+    "website": "9-250-evolutionary-psychology-spring-1999"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "232f3b21-68ea-45c0-96dc-bc4e7d2435e0",
+  "site_short_id": "9.250-spring-1999",
+  "site_url_path": "courses/9-250-evolutionary-psychology-spring-1999",
+  "title": "Course Metadata"
+}
