@@ -26,6 +26,7 @@
     "website": "9-250-evolutionary-psychology-spring-1999"
   },
   "course_title": "Evolutionary Psychology",
+  "hide_download": true,
   "course_description": "Current research on the evolution and development of cognition and affect, including intuitive physics, biology, and psychology, language, emotions, sexuality, and social relations.\n",
   "department_numbers": [
     "9"
@@ -36,6 +37,7 @@
     "content": "e350f3c7-776f-79a9-4eda-fb09f6b61411",
     "website": "9-250-evolutionary-psychology-spring-1999"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments"
